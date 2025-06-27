@@ -19,7 +19,7 @@ namespace ConsoleApp1_String01
             Number of Special characters in the string is : 4
         
         Meine Veränderung für Git-Test
-        Noch eine Änderung!
+        Noch eine Änderung!  
          */
     }
 }

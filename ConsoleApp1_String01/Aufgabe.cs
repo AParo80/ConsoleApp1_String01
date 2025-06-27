@@ -20,6 +20,7 @@ namespace ConsoleApp1_String01
         
         Meine Veränderung für Git-Test
         Noch eine Änderung!  
+        Wieder eine Änderung eingefügt! um 12:20
          */
     }
 }
